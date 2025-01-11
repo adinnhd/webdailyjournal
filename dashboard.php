@@ -18,7 +18,7 @@ $jumlah_user = $hasil3->num_rows;
 
 
 ?>
-<div class="row row-cols-1 row-cols-md-4 g-4 justify-content-center pt-4">
+<div class="row row-cols-1 row-cols-md-4 g-4 justify-content-center pt-4" style="height: 670px;">
     <div class="col">
         <div class="card border border-dark mb-3 shadow" style="max-width: 18rem;">
             <div class="card-body">

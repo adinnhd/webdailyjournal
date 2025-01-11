@@ -170,9 +170,9 @@
               </div>
               <div class="card-body">
                 <h6 class="text-center">09.00 - 10.30</h6>
-                <p class="text-center">Pemrograman Berbasis Web <br>Ruang H.3.4</p><br>
+                <p class="text-center">Rekayasa Perangkat Lunak <br>Ruang H.3.4</p><br>
                 <h6 class="text-center">13.00 - 15.00</h6>
-                <p class="text-center">Dasar Pemrograman <br>Ruang H.3.1</p>
+                <p class="text-center">Penambangan Data <br>Ruang H.3.1</p>
               </div>
             </div>
           </div>
@@ -183,7 +183,7 @@
               </div>
               <div class="card-body">
                 <h6 class="text-center">09.00 - 10.30</h6>
-                <p class="text-center">Basis Data <br>Ruang H.3.4</p><br>
+                <p class="text-center">Kriptografi <br>Ruang H.3.4</p><br>
                 <h6 class="text-center">13.00 - 15.00</h6>
                 <p class="text-center">Dasar Pemrograman <br>Ruang H.3.1</p>
               </div>
@@ -196,7 +196,7 @@
               </div>
               <div class="card-body">
                 <h6 class="text-center">09.00 - 10.30</h6>
-                <p class="text-center">Basis Data <br>Ruang H.3.4</p><br>
+                <p class="text-center">Logika Informatika <br>Ruang H.3.4</p><br>
                 <h6 class="text-center">13.00 - 15.00</h6>
                 <p class="text-center">Dasar Pemrograman <br>Ruang H.3.1</p>
               </div>
@@ -212,7 +212,7 @@
               </div>
               <div class="card-body">
                 <h6 class="text-center">09.00 - 10.30</h6>
-                <p class="text-center">Basis Data <br>Ruang H.3.4</p><br>
+                <p class="text-center">Pemrograman Berbasis Web <br>Ruang H.3.4</p><br>
                 <h6 class="text-center">13.00 - 15.00</h6>
                 <p class="text-center">Dasar Pemrograman <br>Ruang H.3.1</p>
               </div>
@@ -224,10 +224,8 @@
                 <h5 class="text-center text-light">Sabtu</h5>
               </div>
               <div class="card-body">
-                <h6 class="text-center">09.00 - 10.30</h6>
-                <p class="text-center">Basis Data <br>Ruang H.3.4</p><br>
-                <h6 class="text-center">13.00 - 15.00</h6>
-                <p class="text-center">Dasar Pemrograman <br>Ruang H.3.1</p>
+                <h6 class="text-center">Tidak ada jadwal</h6>
+                
               </div>
             </div>
           </div>
@@ -237,10 +235,7 @@
                 <h5 class="text-center text-light">Minggu</h5>
               </div>
               <div class="card-body">
-                <h6 class="text-center">09.00 - 10.30</h6>
-                <p class="text-center">Basis Data <br>Ruang H.3.4</p><br>
-                <h6 class="text-center">13.00 - 15.00</h6>
-                <p class="text-center">Dasar Pemrograman <br>Ruang H.3.1</p>
+                <h6 class="text-center">Tidak ada jadwal</h6>
               </div>
             </div>
         </div>

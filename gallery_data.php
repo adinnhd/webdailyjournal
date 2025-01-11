@@ -39,8 +39,8 @@
                                 ?>
                             </td>
                             <td>
-                                <a href="#modalEdit" title="edit" class="badge rounded-pill text-bg-success" data-bs-toggle="modal" data-bs-target="#modalEdit<?= $row["id"] ?>"><i class="bi bi-pencil"></i></a>
-                                <a href="#modalHapus" title="delete" class="badge rounded-pill text-bg-danger" data-bs-toggle="modal" data-bs-target="#modalHapus<?= $row["id"] ?>"><i class="bi bi-x-circle"></i></a>
+                                <a href="#modalEdit" title="edit" class="badge rounded-pill text-bg-success p-3" data-bs-toggle="modal" data-bs-target="#modalEdit<?= $row["id"] ?>"><i class="bi bi-pencil"></i></a>
+                                <a href="#modalHapus" title="delete" class="badge rounded-pill text-bg-danger p-3" data-bs-toggle="modal" data-bs-target="#modalHapus<?= $row["id"] ?>"><i class="bi bi-x-circle"></i></a>
 
                                 <!-- Awal Modal Edit -->
                                     <div class="modal fade" id="modalEdit<?= $row["id"] ?>" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
